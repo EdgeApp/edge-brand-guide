@@ -20,7 +20,8 @@ These are the primary logo variations that should be used across product and mar
 | Mint + Navy logo—use for light bg | Mint + White logo—use for dark bg |
 | :-------------: |:-------------:|
 | ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-MintNavy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Logo-MintWhite.png) |
-| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
+| [Download Hi-Res Logo](| [Download Hi-Res Logo](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/Primary/Edge_Primary_Logo_MintNavy.png)| [Download Hi-Res Logo](edge-brand-guide/Logo/Primary/Edge_Primary_Logo_MintWhite.png)|
+)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
 <br/>
 
