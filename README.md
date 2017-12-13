@@ -90,8 +90,8 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Login | Wallets | Request | Edge Login |
 |-------------|-------------|-------------|-------------|
-| ![Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_login.png) | ![Wallets](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_wallets.png) | ![Request](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_request.png)| ![Edge Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_edgelogin.png)|
-| [Download Hi-Res Login Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_edgelogin.png) |
+| ![Login](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/iOS/Edge_screenshot_login.png) | ![Wallets](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/iOS/Edge_screenshot_wallets.png) | ![Request](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/iOS/Edge_screenshot_request.png)| ![Edge Login](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/iOS/Edge_screenshot_edgelogin.png)|
+| [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/iOS/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/iOS/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/iOS/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/iOS/Edge_screenshot_edgelogin.png) |
 
 <br/>
 <br/>
@@ -100,8 +100,8 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Banner1 | Banner2 | 
 |-------------|-------------|
-| ![Banner 1](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_bg.png) | ![Banner 2](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_long.png) |
-| [Download Hi-Res Banner1](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | [Download Hi-Res Banner1](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | 
+| ![Banner 1](https://github.com/Airbitz/edge-brand-guide/blob/master/Banners/Edge_banner_bg.png) | ![Banner 2](https://github.com/Airbitz/edge-brand-guide/blob/master/Banners/Edge_banner_long.png) |
+| [Download Hi-Res Banner1](https://github.com/Airbitz/edge-brand-guide/blob/master/Banners/Edge_banner_bg.png) | [Download Hi-Res Banner2](https://github.com/Airbitz/edge-brand-guide/blob/master/Banners/Edge_banner_long.png) | 
 
 <br/>
 <br/>
