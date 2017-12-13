@@ -110,6 +110,6 @@ Use secondary logos if primary logos are over background colors that clash.
 Website: https://edgesecure.co<br/> 
 Twitter: https://twitter.com/EdgeSecure<br/>
 Facebook: https://www.facebook.com/EdgeSec<br/>
-LinkedIn: https://www.linkedin.com/company/3609678<br/>
+LinkedIn: https://www.linkedin.com/company/edgesecure/<br/>
 Instagram: https://www.instagram.com/Edge_Secure_<br/>
 Angellist: https://angel.co/edgesecure
