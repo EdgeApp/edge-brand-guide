@@ -87,11 +87,26 @@ Use secondary logos if primary logos are over background colors that clash.
 <br/>
 
 ## Screenshots
+### iOS
 
 | Login | Wallets | Request | Edge Login |
 |-------------|-------------|-------------|-------------|
 | ![Login](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_login.png) | ![Wallets](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_wallets.png) | ![Request](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_request.png)| ![Edge Login](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_edgelogin.png)|
 | [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_edgelogin.png) |
+
+### Android
+
+| Login | Wallets | Request | Edge Login |
+|-------------|-------------|-------------|-------------|
+| ![Login](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_login_android.png) | ![Wallets](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_wallets_android.png) | ![Request](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_request_android.png)| ![Edge Login](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_edgelogin_android.png)|
+| [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_login_android.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_wallets_android.png) | [Download Hi-Res Request Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_request_android.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_edgelogin_android.png) |
+
+### Screens Only
+
+| Transactions List, Manage Tokens, Exchanage | Wallets-Tokens, Manage Tokens, Exchange-Tokens |
+|-------------|-------------|
+| ![ThreeScreens1](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_lockup_three1.png) | ![ThreeScreens2](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_lockup_three2.png) |
+| [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_lockup_three1.png) | [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_lockup_three2.png) | 
 
 <br/>
 <br/>
