@@ -122,10 +122,10 @@ Use secondary logos if primary logos are over background colors that clash.
 <br/>
 
 ## Social Links
-Website: https://edgesecure.co<br/> 
-Twitter: https://twitter.com/EdgeSecure<br/>
-Facebook: https://www.facebook.com/EdgeSec<br/>
+Website: https://edge.app<br/> 
+Twitter: https://twitter.com/EdgeWallet<br/>
+Facebook: https://www.facebook.com/EdgeWallet<br/>
 YouTube: https://youtube.com/c/EdgeSecure<br/>
-Instagram: https://www.instagram.com/Edge_Secure_/<br/>
+Instagram: https://www.instagram.com/EdgeWallet/<br/>
 LinkedIn: https://www.linkedin.com/company/edgesecure<br/>
 Angellist: https://angel.co/edgesecure
