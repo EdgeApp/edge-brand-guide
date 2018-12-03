@@ -123,6 +123,8 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ## Social Links
 Website: https://edge.app<br/> 
+App Store: https://itunes.apple.com/us/app/edge-crypto-bitcoin-wallet/id1344400091?mt=8<br/> 
+Play Store: https://play.google.com/store/apps/details?id=co.edgesecure.app<br/> 
 Twitter: https://twitter.com/EdgeWallet<br/>
 Facebook: https://www.facebook.com/EdgeWallet<br/>
 YouTube: https://youtube.com/c/EdgeSecure<br/>
