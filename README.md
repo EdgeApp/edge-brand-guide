@@ -127,7 +127,7 @@ App Store: https://itunes.apple.com/us/app/edge-crypto-bitcoin-wallet/id13444000
 Play Store: https://play.google.com/store/apps/details?id=co.edgesecure.app<br/> 
 Twitter: https://twitter.com/EdgeWallet<br/>
 Facebook: https://www.facebook.com/EdgeWallet<br/>
-YouTube: https://youtube.com/c/EdgeSecure<br/>
+YouTube: https://youtube.com/c/EdgeWallet<br/>
 Instagram: https://www.instagram.com/EdgeWallet/<br/>
-LinkedIn: https://www.linkedin.com/company/edgesecure<br/>
+LinkedIn: https://www.linkedin.com/company/edgeapp<br/>
 Angellist: https://angel.co/edgesecure
