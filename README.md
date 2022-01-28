@@ -103,10 +103,10 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ### Screens Only
 
-| Transactions List, Manage Tokens, Exchanage | Wallets-Tokens, Manage Tokens, Exchange-Tokens |
-|-------------|-------------|
-| ![ThreeScreens1](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_lockup_three1.png) | ![ThreeScreens2](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_lockup_three2.png) |
-| [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_lockup_three1.png) | [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_lockup_three2.png) | 
+| Wallet Type, Exchange, Transaction | Exchange, Wallet List, Transaction | Wallet List, Request, Transaction | Tokens, Wallet List, Select Wallet |
+|-------------|-------------|-------------|-------------|
+| ![ThreeScreens1](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens1.png) | ![ThreeScreens2](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens2.png) | ![ThreeScreens3](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens3.png) | ![ThreeScreens4](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens4.png)
+| [Download Hi-Res Login Screenshot](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens1.png) | [Download Hi-Res Login Screenshot](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens2.png) | [Download Hi-Res Login Screenshot](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens3.png) | [Download Hi-Res Login Screenshot](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens4.png)
 
 <br/>
 <br/>
