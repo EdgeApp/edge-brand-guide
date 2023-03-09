@@ -45,7 +45,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ### Edge App Icon:
 
-![Edge App Icon](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/App-Icon/Edge_app_icon.png)
+![Edge App Icon](https://github.com/EdgeApp/edge-brand-guide/blob/master/Logo/App-Icon/Edge_app_icon.png)
 
 <br/>
 <br/>
