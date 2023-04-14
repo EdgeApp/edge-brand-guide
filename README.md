@@ -91,7 +91,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Login | Wallets | Request | Edge Login |
 |-------------|-------------|-------------|-------------|
-| ![Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Login.png) | ![Wallets](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Wallets.png) | ![Request](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Request.png)| ![Edge Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_EdgeLogin.png)|
+| ![Login](https://github.com/EdgeApp/edge-brand-guide/blob/develop/Screenshots/Devices/iOS/2023_iPhone_Login.png) | ![Wallets](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Wallets.png) | ![Request](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Request.png)| ![Edge Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_EdgeLogin.png)|
 | [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_edgelogin.png) |
 
 ### Android
