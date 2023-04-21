@@ -87,19 +87,11 @@ Use secondary logos if primary logos are over background colors that clash.
 <br/>
 
 ## Screenshots
-### iOS
 
 | Login | Wallets | Request | Edge Login |
 |-------------|-------------|-------------|-------------|
-| ![Login](https://github.com/EdgeApp/edge-brand-guide/blob/develop/Screenshots/Devices/iOS/2023_iPhone_Login.png) | ![Wallets](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Wallets.png) | ![Request](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Request.png)| ![Edge Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_EdgeLogin.png)|
-| [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_edgelogin.png) |
-
-### Android
-
-| Login | Wallets | Request | Edge Login |
-|-------------|-------------|-------------|-------------|
-| ![Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/Android/2022_Android_Login.png) | ![Wallets](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/Android/2022_Android_Wallets.png) | ![Request](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/Android/2022_Android_Request.png)| ![Edge Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/Android/2022_Android_EdgeLogin.png)|
-| [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_login_android.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_wallets_android.png) | [Download Hi-Res Request Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_request_android.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_edgelogin_android.png) |
+| ![Login](https://github.com/EdgeApp/edge-brand-guide/blob/develop/Screenshots/Devices/iOS/2023_iPhone_Login.png) | ![Wallets](https://github.com/EdgeApp/edge-brand-guide/blob/develop/Screenshots/Devices/iOS/2023_iPhone_Wallets.png) | ![Request](https://github.com/EdgeApp/edge-brand-guide/blob/develop/Screenshots/Devices/iOS/2023_iPhone_Request.png)| ![Edge Login](https://github.com/EdgeApp/edge-brand-guide/blob/develop/Screenshots/Devices/iOS/2023_iPhone_EdgeLogin.png)|
+| [Download Hi-Res Login Screenshot](https://raw.githubusercontent.com/EdgeApp/edge-brand-guide/develop/Screenshots/Devices/iOS/2023_iPhone_Login.png) | [Download Hi-Res Wallets Screenshot](https://raw.githubusercontent.com/Airbitz/edge-brand-guide/blob/develop/Screenshots/2023_iPhone_Wallets.png) | [Download Hi-Res Request Screenshot](https://raw.githubusercontent.com/Airbitz/edge-brand-guide/blob/develop/Screenshots/2023_iPhone_Request.png) | [Download Hi-Res Edge Login Screenshot](https://raw.githubusercontent.com/Airbitz/edge-brand-guide/blob/develop/Screenshots/2023_iPhone_EdgeLogin.png) |
 
 ### Screens Only
 
