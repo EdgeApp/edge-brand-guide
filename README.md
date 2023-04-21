@@ -19,7 +19,7 @@ These are the primary logo variations that should be used across product and mar
 
 | Mint + Navy logo—use for light bg | Mint + White logo—use for dark bg |
 | :-------------: |:-------------:|
-| ![Master Logo Mint and Navy](./Logo/Primary/Edge_Primary_Logo_MintNavy.png) | ![Master Logo Mint and White](./Logo/Primary/Edge_Primary_Logo_MintWhite.png) |
+| ![Master Logo Mint and Navy](./Logo/Primary/previews/Edge_Primary_Logo_MintNavy.png) | ![Master Logo Mint and White](./Logo/Primary/previews/Edge_Primary_Logo_MintWhite.png) |
 | [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintNavy.png)| [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintWhite.png)|
 
 <br/>
@@ -29,7 +29,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Navy | White |
 | :-------------: |:-------------:|
-| ![Secondary Logo Navy](./Logo/Secondary/Edge_Secondary_Logo_Navy.png) | ![Secondary Logo White](./Logo/Secondary/Edge_Secondary_Logo_White.png) |
+| ![Secondary Logo Navy](./Logo/Secondary/previews/Edge_Secondary_Logo_Navy.png) | ![Secondary Logo White](./Logo/Secondary/previews/Edge_Secondary_Logo_White.png) |
 | [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_Navy.png)| [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_White.png)|
 
 <br/>
@@ -38,7 +38,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Mint | Navy | White |
 | :-------------: |:-------------:|:-------------:|
-| ![Master Logo Mint and Navy](./Logo/Mark/Edge-Final-Logo_Mark-Green.png) | ![Master Logo Mint and White](./Logo/Mark/Edge-Final-Logo_Mark-Blue.png) | ![Master Logo Mint and White](./Logo/Mark/Edge-Final-Logo_Mark-White.png)
+| ![Master Logo Mint and Navy](./Logo/Mark/previews/Edge-Final-Logo_Mark-Green.png) | ![Master Logo Mint and White](./Logo/Mark/previews/Edge-Final-Logo_Mark-Blue.png) | ![Master Logo Mint and White](./Logo/Mark/previews/Edge-Final-Logo_Mark-White.png)
 | [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-Green.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-Blue.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-White.png)|
 
 <br/>
