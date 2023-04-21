@@ -88,10 +88,10 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ## Screenshots
 
-| Login | Wallets | Request | Edge Login |
+| Welcome | Wallets | Receive | Login |
 |-------------|-------------|-------------|-------------|
-| ![Login](./Screenshots/Devices/iOS/iPhone_Login.png) | ![Wallets](./Screenshots/Devices/iOS/iPhone_Wallets.png) | ![Request](./Screenshots/Devices/iOS/iPhone_Request.png)| ![Edge Login](./Screenshots/Devices/iOS/iPhone_EdgeLogin.png)|
-| [Download Hi-Res Login Screenshot](./Screenshots/Devices/iOS/iPhone_Login.png) | [Download Hi-Res Wallets Screenshot](./Screenshots/Devices/iOS/iPhone_Wallets.png) | [Download Hi-Res Request Screenshot](./Screenshots/iPhone_Request.png) | [Download Hi-Res Edge Login Screenshot](./Screenshots/iPhone_EdgeLogin.png) |
+| ![Welcome](./Screenshots/Devices/iOS/iPhone_Login.png) | ![Wallets](./Screenshots/Devices/iOS/iPhone_Wallets.png) | ![Receive](./Screenshots/Devices/iOS/iPhone_Request.png)| ![Login](./Screenshots/Devices/iOS/iPhone_EdgeLogin.png)|
+| [Download Hi-Res Welcome Screenshot](./Screenshots/Devices/iOS/iPhone_Login.png) | [Download Hi-Res Wallets Screenshot](./Screenshots/Devices/iOS/iPhone_Wallets.png) | [Download Hi-Res Receive Screenshot](./Screenshots/iPhone_Request.png) | [Download Hi-Res Login Screenshot](./Screenshots/iPhone_EdgeLogin.png) |
 
 ### Screens Only
 
