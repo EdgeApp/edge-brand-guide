@@ -93,7 +93,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | ![Welcome](./Screenshots/Devices/iOS/iPhone_Login.png) | ![Wallets](./Screenshots/Devices/iOS/iPhone_Wallets.png) | ![Receive](./Screenshots/Devices/iOS/iPhone_Request.png)| ![Login](./Screenshots/Devices/iOS/iPhone_EdgeLogin.png)|
 | [Download Hi-Res Welcome Screenshot](./Screenshots/Devices/iOS/iPhone_Login.png) | [Download Hi-Res Wallets Screenshot](./Screenshots/Devices/iOS/iPhone_Wallets.png) | [Download Hi-Res Receive Screenshot](./Screenshots/iPhone_Request.png) | [Download Hi-Res Login Screenshot](./Screenshots/iPhone_EdgeLogin.png) |
 
-### Screens Only
+### Screen Sets
 
 | Wallet Type, Exchange, Transaction | Exchange, Wallet List, Transaction | Wallet List, Request, Transaction | Tokens, Wallet List, Select Wallet |
 |-------------|-------------|-------------|-------------|
