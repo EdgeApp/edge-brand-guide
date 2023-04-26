@@ -57,9 +57,9 @@ Use secondary logos if primary logos are over background colors that clash.
 | Edge Navy | Edge Mint | Edge Blue | Edge Blue |
 |-----------|-----------|-----------|-----------|
 | ![Edge Navy](./Colors/Primary/Edge_color_one.png) | ![Edge Mint](./Colors/Primary/Edge_color_two.png) | ![Edge Blue](./Colors/Primary/Edge_color_three.png) | ![Edge Fourth](./Colors/Primary/Edge_color_four.png) |
-| HEX: 0D2145 | HEX: 66EDA8 | HEX: 0E4B75 | HEX: 0E4B75 |
-| CMYK: 100 89 42 46 | CMYK: 50 0 50 0 | CMYK: 98 73 31 15 | CMYK: 98 73 31 15 |
-| RGB: 13 33 69 | RGB: 102 237 168 | RGB: 14 75 117 | RGB: 14 75 117 |
+| HEX: 050A0D | HEX: 66EDA8 | HEX: 0A202A | HEX: 133544 |
+| CMYK: 72 22 0 73 | CMYK: 50 0 50 0 | CMYK: 76 24 0 84 | CMYK: 72 22 0 73 |
+| RGB: 19 54 69 | RGB: 102 237 168 | RGB: 10 32 42 | RGB: 19 53 68 |
 
 <br/>
 
