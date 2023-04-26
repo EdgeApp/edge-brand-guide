@@ -73,10 +73,10 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ### Screen Sets
 
-| Wallet Type, Exchange, Transaction | Exchange, Wallet List, Transaction | Wallet List, Request, Transaction | Tokens, Wallet List, Select Wallet |
-|-------------|-------------|-------------|-------------|
-| ![ThreeScreens1](./Screenshots/Edge_SetofScreens1.png) | ![ThreeScreens2](./Screenshots/Edge_SetofScreens2.png) | ![ThreeScreens3](./Screenshots/Edge_SetofScreens3.png) | ![ThreeScreens4](./Screenshots/Edge_SetofScreens4.png)
-| [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens1.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens2.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens3.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens4.png)
+| Wallet Type, Exchange, Transaction | Wallet List, Request, Transaction | Tokens, Wallet List, Select Wallet |
+|-------------|-------------|-------------|
+| ![ThreeScreens1](./Screenshots/Edge_SetofScreens1.png) | ![ThreeScreens3](./Screenshots/Edge_SetofScreens3.png) | ![ThreeScreens4](./Screenshots/Edge_SetofScreens4.png)
+| [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens1.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens3.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens4.png)
 
 <br/>
 <br/>
