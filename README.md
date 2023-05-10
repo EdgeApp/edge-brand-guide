@@ -19,8 +19,8 @@ These are the primary logo variations that should be used across product and mar
 
 | Mint + Navy logo—use for light bg | Mint + White logo—use for dark bg |
 | :-------------: |:-------------:|
-| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-MintNavy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Logo-MintWhite.png) |
-| [Download Hi-Res Logo](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/Primary/Edge_Primary_Logo_MintNavy.png)| [Download Hi-Res Logo](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/Primary/Edge_Primary_Logo_MintWhite.png)|
+| ![Master Logo Mint and Navy](./Logo/Primary/previews/Edge_Primary_Logo_MintNavy.png) | ![Master Logo Mint and White](./Logo/Primary/previews/Edge_Primary_Logo_MintWhite.png) |
+| [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintNavy.png)| [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintWhite.png)|
 
 <br/>
 
@@ -29,8 +29,8 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Navy | White |
 | :-------------: |:-------------:|
-| ![Secondary Logo Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-Navy.png) | ![Secondary Logo White](https://github.com/Reipun/waffle-beans/blob/master/Logo-White.png) |
-| [Download Hi-Res Logo](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/Secondary/Edge_Secondary_Logo_Navy.png)| [Download Hi-Res Logo](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/Secondary/Edge_Secondary_Logo_White.png)|
+| ![Secondary Logo Navy](./Logo/Secondary/previews/Edge_Secondary_Logo_Navy.png) | ![Secondary Logo White](./Logo/Secondary/previews/Edge_Secondary_Logo_White.png) |
+| [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_Navy.png)| [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_White.png)|
 
 <br/>
 
@@ -38,14 +38,14 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Mint | Navy | White |
 | :-------------: |:-------------:|:-------------:|
-| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Mark-Mint.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-Navy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-White.png)
-| [Download Hi-Res Mark](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/Mark/Edge-Final-Logo_Mark-Green.png)| [Download Hi-Res Mark](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/Mark/Edge-Final-Logo_Mark-Blue.png)| [Download Hi-Res Mark](https://github.com/Airbitz/edge-brand-guide/blob/master/Logo/Mark/Edge-Final-Logo_Mark-White.png)|
+| ![Master Logo Mint and Navy](./Logo/Mark/previews/Edge-Final-Logo_Mark-Green.png) | ![Master Logo Mint and White](./Logo/Mark/previews/Edge-Final-Logo_Mark-Blue.png) | ![Master Logo Mint and White](./Logo/Mark/previews/Edge-Final-Logo_Mark-White.png)
+| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-Green.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-Blue.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-White.png)|
 
 <br/>
 
 ### Edge App Icon:
 
-![Edge App Icon](https://github.com/EdgeApp/edge-brand-guide/blob/master/Logo/App-Icon/Edge_app_icon.png)
+![Edge App Icon](./Logo/App-Icon/Edge_app_icon.png)
 
 <br/>
 <br/>
@@ -54,59 +54,29 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ### Primary Palette:
 
-| Edge Navy | Edge Mint | Edge Blue |
-|-------------|-------------|-------------|
-| ![Edge Navy](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_navy.png) | ![Edge Mint](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_mint.png) | ![Edge Blue](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_blue.png)| 
-| HEX: 0D2145 | HEX: 66EDA8 | HEX: 0E4B75 |
-| CMYK: 100 89 42 46 | CMYK: 50 0 50 0 | CMYK: 98 73 31 15 |
-| RGB: 13 33 69 | RGB: 102 237 168 | RGB: 14 75 117 |
-
-<br/>
-
-### Secondary Palette:
-
-| Accent Blue | Accent Orange | Accent Red |
-|-------------|-------------|-------------|
-| ![Accent Blue](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_accent_blue.png) | ![Accent Orange](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_accent_orange.png) | ![Accent Red](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_accent_red.png)| 
-| HEX: 0073D9 | HEX: F1AA19 | HEX: E85466 |
-| CMYK: 82 54 0 0 | CMYK: 4 36 100 0 | CMYK: 4 82 50 0 |
-| RGB: 0 115 217 | RGB: 241 170 25 | RGB: 232 84 102 |
-
-<br/>
-
-### Grays:
-
-| Gray01 | Gray02 | Gray03 | Gray04 |
-|-------------|-------------|-------------|-------------|
-| ![Gray01](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_gray01.png) | ![Gray02](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_gray02.png) | ![Gray03](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_gray03.png)| ![Gray04](https://github.com/Airbitz/edge-brand-guide/blob/master/Colors/Edge_color_gray04.png)|
-| HEX: 4A5157 | HEX: 87939E | HEX: D9E3ED | HEX: F4F5F6 |
-| CMYK: 70 58 51 32 | CMYK: 51 35 31 1 | CMYK: 13 6 3 0 | CMYK: 3 2 2 0 |
-| RGB: 74 81 87 | RGB: 135 148 158 | RGB: 217 227 237 | RGB: 96 245 246 |
+| Edge Navy | Edge Mint | Edge Blue | Edge Blue |
+|-----------|-----------|-----------|-----------|
+| ![Edge Navy](./Colors/Primary/Edge_color_one.png) | ![Edge Mint](./Colors/Primary/Edge_color_two.png) | ![Edge Blue](./Colors/Primary/Edge_color_three.png) | ![Edge Fourth](./Colors/Primary/Edge_color_four.png) |
+| HEX: 050A0D | HEX: 66EDA8 | HEX: 0A202A | HEX: 133544 |
+| CMYK: 72 22 0 73 | CMYK: 50 0 50 0 | CMYK: 76 24 0 84 | CMYK: 72 22 0 73 |
+| RGB: 19 54 69 | RGB: 102 237 168 | RGB: 10 32 42 | RGB: 19 53 68 |
 
 <br/>
 <br/>
 
 ## Screenshots
-### iOS
 
-| Login | Wallets | Request | Edge Login |
+| Welcome | Wallets | Receive | Login |
 |-------------|-------------|-------------|-------------|
-| ![Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Login.png) | ![Wallets](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Wallets.png) | ![Request](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_Request.png)| ![Edge Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/iOS/2022_iPhone_EdgeLogin.png)|
-| [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Edge_screenshot_edgelogin.png) |
+| ![Welcome](./Screenshots/Devices/iOS/iPhone_Login.png) | ![Wallets](./Screenshots/Devices/iOS/iPhone_Wallets.png) | ![Receive](./Screenshots/Devices/iOS/iPhone_Request.png)| ![Login](./Screenshots/Devices/iOS/iPhone_EdgeLogin.png)|
+| [Download Hi-Res Welcome Screenshot](./Screenshots/Devices/iOS/iPhone_Login.png) | [Download Hi-Res Wallets Screenshot](./Screenshots/Devices/iOS/iPhone_Wallets.png) | [Download Hi-Res Receive Screenshot](./Screenshots/iPhone_Request.png) | [Download Hi-Res Login Screenshot](./Screenshots/iPhone_EdgeLogin.png) |
 
-### Android
+### Screen Sets
 
-| Login | Wallets | Request | Edge Login |
-|-------------|-------------|-------------|-------------|
-| ![Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/Android/2022_Android_Login.png) | ![Wallets](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/Android/2022_Android_Wallets.png) | ![Request](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/Android/2022_Android_Request.png)| ![Edge Login](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Devices/Android/2022_Android_EdgeLogin.png)|
-| [Download Hi-Res Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_login_android.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_wallets_android.png) | [Download Hi-Res Request Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_request_android.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Airbitz/edge-brand-guide/blob/master/Screenshots/Devices/Android/Edge_screenshot_edgelogin_android.png) |
-
-### Screens Only
-
-| Wallet Type, Exchange, Transaction | Exchange, Wallet List, Transaction | Wallet List, Request, Transaction | Tokens, Wallet List, Select Wallet |
-|-------------|-------------|-------------|-------------|
-| ![ThreeScreens1](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens1.png) | ![ThreeScreens2](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens2.png) | ![ThreeScreens3](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens3.png) | ![ThreeScreens4](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens4.png)
-| [Download Hi-Res Login Screenshot](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens1.png) | [Download Hi-Res Login Screenshot](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens2.png) | [Download Hi-Res Login Screenshot](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens3.png) | [Download Hi-Res Login Screenshot](https://github.com/EdgeApp/edge-brand-guide/blob/master/Screenshots/Edge_SetofScreens4.png)
+| Wallet Type, Exchange, Transaction | Wallet List, Request, Transaction | Tokens, Wallet List, Select Wallet |
+|-------------|-------------|-------------|
+| ![ThreeScreens1](./Screenshots/Edge_SetofScreens1.png) | ![ThreeScreens3](./Screenshots/Edge_SetofScreens3.png) | ![ThreeScreens4](./Screenshots/Edge_SetofScreens4.png)
+| [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens1.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens3.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens4.png)
 
 <br/>
 <br/>
@@ -115,8 +85,8 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Banner1 | Banner2 | 
 |-------------|-------------|
-| ![Banner 1](https://github.com/Airbitz/edge-brand-guide/blob/master/Banners/Edge_banner_bg.png) | ![Banner 2](https://github.com/Airbitz/edge-brand-guide/blob/master/Banners/Edge_banner_long.png) |
-| [Download Hi-Res Banner1](https://github.com/Airbitz/edge-brand-guide/blob/master/Banners/Edge_banner_bg.png) | [Download Hi-Res Banner2](https://github.com/Airbitz/edge-brand-guide/blob/master/Banners/Edge_banner_long.png) | 
+| ![Banner 1](./Banners/Edge_banner_bg.png) | ![Banner 2](./Banners/Edge_banner_long.png) |
+| [Download Hi-Res Banner1](./Banners/Edge_banner_bg.png) | [Download Hi-Res Banner2](./Banners/Edge_banner_long.png) | 
 
 <br/>
 <br/>
