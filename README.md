@@ -17,10 +17,10 @@
 ### Edge Primary Logo:
 These are the primary logo variations that should be used across product and marketing. 
 
-| Mint + Navy logo—use for light bg | Mint + White logo—use for dark bg |
+| Mint + Black logo—use for light bg | Mint + White logo—use for dark bg |
 | :-------------: |:-------------:|
-| ![Master Logo Mint and Navy](./Logo/Primary/previews/Edge_Primary_Logo_MintNavy.png) | ![Master Logo Mint and White](./Logo/Primary/previews/Edge_Primary_Logo_MintWhite.png) |
-| [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintNavy.png)| [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintWhite.png)|
+| ![Master Logo Mint and Navy](./Logo/Primary/previews/Edge_Primary_Logo_MintBlack.png) | ![Master Logo Mint and White](./Logo/Primary/previews/Edge_Primary_Logo_MintWhite.png) |
+| [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintBlack.png)| [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintWhite.png)|
 
 <br/>
 
@@ -29,17 +29,17 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Navy | White |
 | :-------------: |:-------------:|
-| ![Secondary Logo Navy](./Logo/Secondary/previews/Edge_Secondary_Logo_Navy.png) | ![Secondary Logo White](./Logo/Secondary/previews/Edge_Secondary_Logo_White.png) |
-| [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_Navy.png)| [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_White.png)|
+| ![Secondary Logo Navy](./Logo/Secondary/previews/Edge_Secondary_Logo_Black.png) | ![Secondary Logo White](./Logo/Secondary/previews/Edge_Secondary_Logo_White.png) |
+| [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_Black.png)| [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_White.png)|
 
 <br/>
 
 ### Edge Mark:
 
-| Mint | Navy | White |
+| Mint | Black | White |
 | :-------------: |:-------------:|:-------------:|
-| ![Master Logo Mint and Navy](./Logo/Mark/previews/Edge-Final-Logo_Mark-Green.png) | ![Master Logo Mint and White](./Logo/Mark/previews/Edge-Final-Logo_Mark-Blue.png) | ![Master Logo Mint and White](./Logo/Mark/previews/Edge-Final-Logo_Mark-White.png)
-| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-Green.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-Blue.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-White.png)|
+| ![Master Logo Mint](./Logo/Mark/Edge-Final-LogosUI4_Mark-Green.png) | ![Master Logo Black](./Logo/Mark/Edge-Final-Logo_Mark-Black.png) | ![Master Logo White](./Logo/Mark/Edge-Final-LogosUI4_Mark-White.png)
+| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-LogosUI4_Mark-Green.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-Black.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-LogosUI4_Mark-White.png)|
 
 <br/>
 
@@ -68,15 +68,16 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Welcome | Wallets | Receive | Login |
 |-------------|-------------|-------------|-------------|
-| ![Welcome](./Screenshots/Devices/iOS/iPhone_Login.png) | ![Wallets](./Screenshots/Devices/iOS/iPhone_Wallets.png) | ![Receive](./Screenshots/Devices/iOS/iPhone_Request.png)| ![Login](./Screenshots/Devices/iOS/iPhone_EdgeLogin.png)|
-| [Download Hi-Res Welcome Screenshot](./Screenshots/Devices/iOS/iPhone_Login.png) | [Download Hi-Res Wallets Screenshot](./Screenshots/Devices/iOS/iPhone_Wallets.png) | [Download Hi-Res Receive Screenshot](./Screenshots/iPhone_Request.png) | [Download Hi-Res Login Screenshot](./Screenshots/iPhone_EdgeLogin.png) |
+| ![Welcome](./Screenshots/Edge_Welcome.png) | ![Wallets](./Screenshots/Edge_Wallets.png) | ![Receive](./Screenshots/Edge_Request.png)| ![Login](./Screenshots/Edge_Login.png)|
+| [Download Hi-Res Welcome Screenshot](./Screenshots/Edge_Welcome.png) | [Download Hi-Res Wallets Screenshot](./Screenshots/Edge_Wallets.png) | [Download Hi-Res Receive Screenshot](./Screenshots/Edge_Request.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_Login.png) |
 
 ### Screen Sets
 
 | Wallet Type, Exchange, Transaction | Wallet List, Request, Transaction | Tokens, Wallet List, Select Wallet |
 |-------------|-------------|-------------|
-| ![ThreeScreens1](./Screenshots/Edge_SetofScreens1.png) | ![ThreeScreens3](./Screenshots/Edge_SetofScreens3.png) | ![ThreeScreens4](./Screenshots/Edge_SetofScreens4.png)
-| [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens1.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens3.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens4.png)
+| <img src="./Screenshots/Edge_Screenshots_1.png" width="300"> | <img src="./Screenshots/Edge_Screenshots_2.png" width="300"> | <img src="./Screenshots/Edge_Screenshots_3.png" width="300">
+| [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_1.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_2.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_3.png)
+
 
 <br/>
 <br/>
