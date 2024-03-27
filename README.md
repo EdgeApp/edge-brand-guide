@@ -17,9 +17,9 @@
 ### Edge Primary Logo:
 These are the primary logo variations that should be used across product and marketing. 
 
-| Mint + Black logo—use for light bg | Mint + White logo—use for dark bg |
+| Color on Light | Color on Dark |
 | :-------------: |:-------------:|
-| ![Master Logo Mint and Navy](./Logo/Primary/previews/Edge_Primary_Logo_MintBlack.png) | ![Master Logo Mint and White](./Logo/Primary/previews/Edge_Primary_Logo_MintWhite.png) |
+| ![Logo White Background](./Logo/Primary/previews/Edge_Primary_Logo_MintBlack.png) | ![Logo Dark Background](./Logo/Primary/previews/Edge_Primary_Logo_MintWhite.png) |
 | [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintBlack.png)| [Download Hi-Res Logo](./Logo/Primary/Edge_Primary_Logo_MintWhite.png)|
 
 <br/>
@@ -27,25 +27,29 @@ These are the primary logo variations that should be used across product and mar
 ### Edge Secondary Logo:
 Use secondary logos if primary logos are over background colors that clash. 
 
-| Navy | White |
+| Monochrome on Light | Monochrome on Dark |
 | :-------------: |:-------------:|
-| ![Secondary Logo Navy](./Logo/Secondary/previews/Edge_Secondary_Logo_Black.png) | ![Secondary Logo White](./Logo/Secondary/previews/Edge_Secondary_Logo_White.png) |
+| ![Secondary Logo on Light](./Logo/Secondary/previews/Edge_Secondary_Logo_Black.png) | ![Secondary Logo on Black](./Logo/Secondary/previews/Edge_Secondary_Logo_White.png) |
 | [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_Black.png)| [Download Hi-Res Logo](./Logo/Secondary/Edge_Secondary_Logo_White.png)|
 
 <br/>
 
 ### Edge Mark:
 
-| Mint | Black | White |
+| Color | Black | White |
 | :-------------: |:-------------:|:-------------:|
-| ![Master Logo Mint](./Logo/Mark/Edge-Final-LogosUI4_Mark-Green.png) | ![Master Logo Black](./Logo/Mark/Edge-Final-Logo_Mark-Black.png) | ![Master Logo White](./Logo/Mark/Edge-Final-LogosUI4_Mark-White.png)
+| ![Logo Color](./Logo/Mark/Edge-Final-LogosUI4_Mark-Green.png) | ![Logo Black](./Logo/Mark/Edge-Final-Logo_Mark-Black.png) | ![Logo White](./Logo/Mark/Edge-Final-LogosUI4_Mark-White.png)
 | [Download Hi-Res Mark](./Logo/Mark/Edge-Final-LogosUI4_Mark-Green.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-Logo_Mark-Black.png)| [Download Hi-Res Mark](./Logo/Mark/Edge-Final-LogosUI4_Mark-White.png)|
 
 <br/>
 
 ### Edge App Icon:
 
-![Edge App Icon](./Logo/App-Icon/Edge_app_icon.png)
+
+| App Icon |
+| :-------------: |
+| <img alt="Edge App Icon" width="128" src="./Logo/App-Icon/Edge_app_icon.png" /> |
+| <a href="./Logo/App-Icon/Edge_app_icon.png">Download Hi-Res Mark</a> |
 
 <br/>
 <br/>
@@ -54,12 +58,12 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ### Primary Palette:
 
-| Edge Navy | Edge Mint | Edge Blue | Edge Blue |
+| Edge Black | Edge Mint | Edge Grey | Edge White |
 |-----------|-----------|-----------|-----------|
 | ![Edge Navy](./Colors/Primary/Edge_color_one.png) | ![Edge Mint](./Colors/Primary/Edge_color_two.png) | ![Edge Blue](./Colors/Primary/Edge_color_three.png) | ![Edge Fourth](./Colors/Primary/Edge_color_four.png) |
-| HEX: 050A0D | HEX: 66EDA8 | HEX: 0A202A | HEX: 133544 |
-| CMYK: 72 22 0 73 | CMYK: 50 0 50 0 | CMYK: 76 24 0 84 | CMYK: 72 22 0 73 |
-| RGB: 19 54 69 | RGB: 102 237 168 | RGB: 10 32 42 | RGB: 19 53 68 |
+| HEX: 1A1B1C | HEX: 08F0A1 | HEX: 505050 | HEX: FFFFFF |
+| CMYK: 79 73 68 68 | CMYK: 44 0 37 0 | CMYK: 73 66 61 16 | CMYK: 0 0 0 0 |
+| RGB: 26 27 28 | RGB: 8 240 161 | RGB: 79 80 80 | RGB: 255 255 255 |
 
 <br/>
 <br/>
@@ -73,7 +77,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ### Screen Sets
 
-| Wallet Type, Exchange, Transaction | Wallet List, Request, Transaction | Tokens, Wallet List, Select Wallet |
+| Wallets, Exchange, Transactions | Home, Request, Transactions | Tokens, Wallets, Wallets |
 |-------------|-------------|-------------|
 | <img src="./Screenshots/Edge_Screenshots_1.png" width="300"> | <img src="./Screenshots/Edge_Screenshots_2.png" width="300"> | <img src="./Screenshots/Edge_Screenshots_3.png" width="300">
 | [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_1.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_2.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_3.png)
