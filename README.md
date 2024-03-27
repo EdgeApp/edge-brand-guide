@@ -79,8 +79,8 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Wallets, Exchange, Transactions | Home, Request, Transactions | Tokens, Wallets, Wallets |
 |-------------|-------------|-------------|
-| ![ThreeScreens2](./Screenshots/Edge_SetofScreens2.png) | ![ThreeScreens3](./Screenshots/Edge_SetofScreens3.png) | ![ThreeScreens4](./Screenshots/Edge_SetofScreens4.png)
-| [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens2.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens3.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_SetofScreens4.png)
+| ![Screenshots 1](./Screenshots/Edge_Screenshots_1.png) | ![Screenshots 2](./Screenshots/Edge_Screenshots_2.png) | ![Screenshots 3](./Screenshots/Edge_Screenshots_3.png)
+| [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_1.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_2.png) | [Download Hi-Res Login Screenshot](./Screenshots/Edge_Screenshots_3.png)
 
 <br/>
 <br/>
